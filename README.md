@@ -10,3 +10,11 @@ In contemplation of enhancing the energy effciency of the D2D communications by 
 where BDl and CD corresponds to the allocation of Q RBs and their corresponding power levels by each lth D2DTU. The constraints C1 - C3 represent the satisfaction of the minimum throughput requirements of the considered three-tier users, respectively, the constraint C4 represents the minimum power allocation bound on each RB and the constraint C5 represents that maximum number of RBs acquired by each D2DTU.
 ## Propsoed algorithm for self-organized RB and power allocation using non-cooperative game
 ![Alt text](https://user-images.githubusercontent.com/24733570/31723752-011c9b0c-b420-11e7-95ee-951410e0468e.png)
+
+# Reference
+If you want more information, then your can refer to our publised paper. In addition, if you find any information in the content that is help for your research, then please cite the paper in your work.
+
+*Shahid A, Kim KS, De Poorter E, Moerman I. Self-Organized Energy-Efficient Cross-Layer Optimization for Device to Device Communication in Heterogeneous Cellular Networks. IEEE Access. 2017;5:1117-28.*
+
+# Contact
+adnan.shahid@ugent.be
