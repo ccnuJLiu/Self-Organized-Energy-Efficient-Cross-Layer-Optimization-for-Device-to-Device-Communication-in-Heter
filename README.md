@@ -8,3 +8,5 @@ In contemplation of enhancing the energy effciency of the D2D communications by 
 ![Alt text](https://user-images.githubusercontent.com/24733570/31723513-5404aafe-b41f-11e7-9e32-44ffbc3a91e5.png)
 
 where BDl and CD corresponds to the allocation of Q RBs and their corresponding power levels by each lth D2DTU. The constraints C1 - C3 represent the satisfaction of the minimum throughput requirements of the considered three-tier users, respectively, the constraint C4 represents the minimum power allocation bound on each RB and the constraint C5 represents that maximum number of RBs acquired by each D2DTU.
+## Propsoed algorithm for self-organized RB and power allocation using non-cooperative game
+![Alt text](https://user-images.githubusercontent.com/24733570/31723752-011c9b0c-b420-11e7-95ee-951410e0468e.png)
