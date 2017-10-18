@@ -4,3 +4,4 @@ Device to device (D2D) communication brings numerous benefits for future heterog
 ![Alt text](https://user-images.githubusercontent.com/24733570/31720329-91345694-b416-11e7-9fc6-52be5935f525.jpg)
 ## Problem formulation
 In contemplation of enhancing the energy effciency of the D2D communications by exploiting a joint RB and power allocation, the optimization problem can be formulated as:
+![Alt text](https://user-images.githubusercontent.com/24733570/31723268-aa2f2392-b41e-11e7-974e-59608e1f47a5.png)
